@@ -11,5 +11,6 @@ Para ejecutar la app web de Predicción de viviendas, hay una serie de pasos a r
 
 5: En la terminal ejecutar: streamlit run Predicción_viviendas.py
 
-# Al seguir estos pasos, se abrira una pestaña en el anvegador predeterminado y se mostrará la interfaz gráfica de streamlit, mostrando la app web de Predicción de precio de Vivivendas
+# Al seguir estos pasos, se abrira una pestaña en el navegador predeterminado y se mostrará la interfaz gráfica de streamlit
+# mostrando la app web de Predicción de precio de Vivivendas
 
