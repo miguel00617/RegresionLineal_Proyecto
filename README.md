@@ -1,4 +1,4 @@
-#Predicción con regresión Lineal
+# Predicción con regresión Lineal
 Proyecto de algoritmo de Machine Learning
 
 Este proyecto de ciencia de datos, automatiza el cálculo del precio de una casa, desde el notebook, con tan solo una variable(Regresión lineal simple), y en la app web, tres variables(Regresión lineal múltiple).
